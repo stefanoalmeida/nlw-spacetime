@@ -88,6 +88,8 @@ nav {
   flex-direction: column;
   gap: 16px;
 
+  background-image: url(./assets/estrelas.svg);
+
   margin-bottom: 64px;
 }
 
